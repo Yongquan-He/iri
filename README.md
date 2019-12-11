@@ -1,2 +1,2 @@
-# iri
-Identity Relation Inference
+# master-thesis-source-code
+
